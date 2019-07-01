@@ -1,2 +1,0 @@
-# Smart-Printing
-Smart Printing 
